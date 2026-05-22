@@ -1,5 +1,5 @@
 {
-  "updated_at": 1779449282,
+  "updated_at": 1779452891,
   "banners": [
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner1.jpg",
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner2.jpg"
@@ -1382,6 +1382,26 @@
       "k": "",
       "st": "",
       "du": "https://discord.gg/e5b2gbY9VN",
+      "eu": "",
+      "i": []
+    },
+    {
+      "c": "TAGERI",
+      "t": "#b772f4",
+      "n": "コンセプトビリヤードバー(第1･3日曜)",
+      "y": "接客イベント",
+      "s": 1782043200,
+      "e": 1782053940,
+      "d": "久アバターコンセプトのビリヤードバーです 久アバター以外のご来店も大歓迎！ 交流目的の方や癒されたい方、ビリヤードを触ってみたい方、ぜひご来店ください",
+      "p": "8+9ボール",
+      "w": "",
+      "q": "×",
+      "a": "×",
+      "r": "誰でも参加可 ・公式Groop(https://vrc.group/TAGERI.9999)にて開かれているGroop+インスタンスに時間になったらJOIN!",
+      "f": "無料",
+      "k": "",
+      "st": "",
+      "du": "https://x.com/TAGERI_poolbar?s=20",
       "eu": "",
       "i": []
     }
