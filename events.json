@@ -1,5 +1,5 @@
 {
-  "updated_at": 1779540850,
+  "updated_at": 1779541480,
   "banners": [
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner1.jpg",
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner2.jpg"
@@ -380,7 +380,9 @@
       "st": "募集中",
       "du": "https://discord.com/channels/1333015144036569131/1430535079049826417",
       "eu": "",
-      "ei": [],
+      "ei": [
+        0
+      ],
       "ci": []
     },
     {
@@ -716,7 +718,9 @@
       "st": "募集中",
       "du": "https://discord.com/channels/1333015144036569131/1430535079049826417",
       "eu": "",
-      "ei": [],
+      "ei": [
+        0
+      ],
       "ci": []
     },
     {
@@ -1073,7 +1077,9 @@
       "st": "募集中",
       "du": "https://discord.com/channels/1333015144036569131/1430535079049826417",
       "eu": "",
-      "ei": [],
+      "ei": [
+        0
+      ],
       "ci": []
     },
     {
@@ -1325,7 +1331,9 @@
       "st": "募集中",
       "du": "https://discord.com/channels/1333015144036569131/1430535079049826417",
       "eu": "",
-      "ei": [],
+      "ei": [
+        0
+      ],
       "ci": []
     },
     {
@@ -1408,6 +1416,27 @@
       "k": "",
       "st": "",
       "du": "https://x.com/billiards_c9ue?s=20",
+      "eu": "",
+      "ei": [],
+      "ci": []
+    },
+    {
+      "c": "スクワットビリヤード部",
+      "t": "#DC143C",
+      "n": "スクワットビリヤード(月曜)",
+      "y": "イベント",
+      "s": 1782133200,
+      "e": 1782139500,
+      "d": "基本ルールに1ファール10スクワットの賭けと契約を加えて、己の肉体のポテンシャルを限界まで引き出すタイプのビリヤードです",
+      "p": "8+9ボール",
+      "w": "",
+      "q": "〇",
+      "a": "〇",
+      "r": "誰でも参加可 ・公式Groop(https://vrc.group/SQUAT.6158)にて開かれているGroop+インスタンスに時間になったらJOIN!",
+      "f": "無料",
+      "k": "",
+      "st": "",
+      "du": "https://discord.gg/e5b2gbY9VN",
       "eu": "",
       "ei": [],
       "ci": []
