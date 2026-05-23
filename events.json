@@ -1,5 +1,5 @@
 {
-  "updated_at": 1779535683,
+  "updated_at": 1779539280,
   "banners": [
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner1.jpg",
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner2.jpg"
@@ -1387,6 +1387,27 @@
       "k": "",
       "st": "",
       "du": "https://x.com/TAGERI_poolbar?s=20",
+      "eu": "",
+      "ei": [],
+      "ci": []
+    },
+    {
+      "c": "C9ue",
+      "t": "#f472b6",
+      "n": "ビリヤードバー『C9ue』(月曜)",
+      "y": "接客イベント",
+      "s": 1782129600,
+      "e": 1782140340,
+      "d": "参加者同士の雑談＆交流イベントです。 ビリヤードも簡単、話したい！お友達作りたい！って方も楽しめるイベントです。 無発言もＯＫ！",
+      "p": "8+9ボール",
+      "w": "",
+      "q": "×",
+      "a": "×",
+      "r": "誰でも参加可 ・公式Groop(https://vrc.group/C9UE.5003)にて開かれているGroop+インスタンスに時間になったらJOIN!",
+      "f": "無料",
+      "k": "",
+      "st": "",
+      "du": "https://x.com/billiards_c9ue?s=20",
       "eu": "",
       "ei": [],
       "ci": []
