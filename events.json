@@ -1,5 +1,5 @@
 {
-  "updated_at": 1779632880,
+  "updated_at": 1779634700,
   "banners": [
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner1.jpg",
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner2.jpg"
@@ -613,7 +613,9 @@
       "st": "",
       "du": "https://x.com/VRC_Cross2025?s=20",
       "eu": "",
-      "ei": [],
+      "ei": [
+        8
+      ],
       "ci": []
     },
     {
@@ -846,7 +848,9 @@
       "st": "",
       "du": "https://x.com/TAGERI_poolbar?s=20",
       "eu": "",
-      "ei": [],
+      "ei": [
+        1
+      ],
       "ci": []
     },
     {
@@ -867,7 +871,9 @@
       "st": "",
       "du": "https://x.com/VRC_billiards",
       "eu": "",
-      "ei": [],
+      "ei": [
+        6
+      ],
       "ci": []
     },
     {
@@ -1268,7 +1274,9 @@
       "st": "",
       "du": "https://x.com/VRC_Cross2025?s=20",
       "eu": "",
-      "ei": [],
+      "ei": [
+        8
+      ],
       "ci": []
     },
     {
@@ -1417,7 +1425,9 @@
       "st": "",
       "du": "https://x.com/TAGERI_poolbar?s=20",
       "eu": "",
-      "ei": [],
+      "ei": [
+        1
+      ],
       "ci": []
     },
     {
