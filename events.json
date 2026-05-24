@@ -1,5 +1,5 @@
 {
-  "updated_at": 1779634700,
+  "updated_at": 1779634836,
   "banners": [
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner1.jpg",
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner2.jpg"
@@ -508,7 +508,9 @@
       "st": "",
       "du": "https://x.com/G_B_VRC",
       "eu": "",
-      "ei": [],
+      "ei": [
+        2
+      ],
       "ci": []
     },
     {
