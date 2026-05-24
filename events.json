@@ -1,5 +1,5 @@
 {
-  "updated_at": 1779618483,
+  "updated_at": 1779622082,
   "banners": [
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner1.jpg",
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner2.jpg"
@@ -1384,27 +1384,6 @@
       "n": "RunOutHouseTournament",
       "y": "トーナメント",
       "s": 1781956800,
-      "e": 1781967599,
-      "d": "９ボールのセットマッチのハンデ戦",
-      "p": "９ボール",
-      "w": "https://vrchat.com/home/launch?worldId=wrld_b717a18a-ecbf-406d-8416-602a528b7b1a",
-      "q": "×",
-      "a": "×",
-      "r": "PConly ",
-      "f": "",
-      "k": "16",
-      "st": "",
-      "du": "",
-      "eu": "",
-      "ei": [],
-      "ci": []
-    },
-    {
-      "c": "VRCビリヤード同好会",
-      "t": "#34d399",
-      "n": "RunOutHouseTournament",
-      "y": "トーナメント",
-      "s": 1781967600,
       "e": 1781969400,
       "d": "９ボールのセットマッチのハンデ戦",
       "p": "９ボール",
