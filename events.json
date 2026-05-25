@@ -1,5 +1,5 @@
 {
-  "updated_at": 1779710427,
+  "updated_at": 1779711433,
   "banners": [
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner1.jpg",
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner2.jpg"
@@ -487,7 +487,9 @@
       "st": "募集中",
       "du": "https://discord.com/channels/953237770942431282/975121234616524860",
       "eu": "",
-      "ei": [],
+      "ei": [
+        10
+      ],
       "ci": []
     },
     {
@@ -529,7 +531,9 @@
       "st": "募集中",
       "du": "https://discord.com/channels/953237770942431282/975121234616524860",
       "eu": "",
-      "ei": [],
+      "ei": [
+        10
+      ],
       "ci": []
     },
     {
