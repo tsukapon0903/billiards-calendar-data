@@ -1,8 +1,162 @@
 {
-  "updated_at": 1779902882,
+  "updated_at": 1779905582,
   "banners": [
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner1.jpg",
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner2.jpg"
+  ],
+  "clubs": [
+    {
+      "id": "vrc-billiards",
+      "name": "VRCビリヤード同好会",
+      "description": "ビリヤードを本気で楽しむためのコミュニティです！初心者から経験者まで、技術向上と競技としての面白さをしっかり味わえるイベントを毎月開催しています。私たちは「ただ遊ぶだけ」ではなく、ビリヤードを真剣に楽しみ、上達し、仲間と切磋琢磨できる場づくりを大切にしています！興味がある方は、ぜひ一度参加してみてください。きっと新しい楽しさに出会えます。",
+      "founded": "2022/03/15",
+      "representative": "worly",
+      "memberCount": 1176,
+      "disciplines": "9ball+8ball",
+      "sns": {
+        "twitter": "https://x.com/VRC_billiards",
+        "discord": "https://discord.gg/rNaVcFjXbM",
+        "youtube": "",
+        "twitch": "",
+        "vrchat": "https://vrc.group/POOL.2803"
+      },
+      "logoUrl": "https://lh3.googleusercontent.com/d/15X5KTjldpwmtWcmaZpXcePARxYfzBoMC",
+      "themeColor": "#34d399",
+      "imageIds": ""
+    },
+    {
+      "id": "vrc-carom",
+      "name": "VRCキャロムビリヤード部",
+      "description": "キャロムビリヤード（3クッション、4球など）を専門に活動する団体。",
+      "founded": "2025/02/01",
+      "representative": "つかぽん",
+      "memberCount": 127,
+      "disciplines": "キャロム, 3C, 四つ球、バンドゲーム、etc",
+      "sns": {
+        "twitter": "https://x.com/VRC_carom?s=20",
+        "discord": "https://discord.gg/nPfYDb7tsj",
+        "youtube": "https://www.youtube.com/channel/UCQANu5U6PsMeiaqlVxvNB4w",
+        "twitch": "",
+        "vrchat": "https://vrc.group/CAROM.6269"
+      },
+      "logoUrl": "https://lh3.googleusercontent.com/d/16_UdgvFRQjPm_0vnGgxM_f_jcARgonD3",
+      "themeColor": "#60a5fa",
+      "imageIds": ""
+    },
+    {
+      "id": "casual-billiards",
+      "name": "カジュアルビリヤード部",
+      "description": "「ビリヤードでつながる」を合言葉に交流を広げて楽しもう！というスタンスで運営しているグループです。グループパブリックで開かれた部室インスタンスなどで遊んでいるので、Joinはお気軽に！",
+      "founded": "2024/10/09",
+      "representative": "",
+      "memberCount": 671,
+      "disciplines": "9ball+8ball",
+      "sns": {
+        "twitter": "https://x.com/vrc_cbc?s=20",
+        "discord": "https://discord.gg/Zq3KzwfFHU",
+        "youtube": "",
+        "twitch": "",
+        "vrchat": "https://vrc.group/8944.7258"
+      },
+      "logoUrl": "https://lh3.googleusercontent.com/d/11xlchlDrlmnNJP3yMSX051GNMxv9Hfxq",
+      "themeColor": "#fbbf24",
+      "imageIds": ""
+    },
+    {
+      "id": "c9ue",
+      "name": "C9ue",
+      "description": "参加者同士の雑談＆交流イベントです。 ビリヤードも簡単、話したい！お友達作りたい！って方も楽しめるイベントです。 無発言もＯＫ！",
+      "founded": "2026/01/09",
+      "representative": "halium",
+      "memberCount": 867,
+      "disciplines": "9ball+8ball & GAME",
+      "sns": {
+        "twitter": "https://x.com/billiards_c9ue?s=20",
+        "discord": "https://discord.gg/QjYjXSVxqP",
+        "youtube": "",
+        "twitch": "",
+        "vrchat": "https://vrc.group/C9UE.5003"
+      },
+      "logoUrl": "",
+      "themeColor": "#f472b6",
+      "imageIds": ""
+    },
+    {
+      "id": "TAGERI",
+      "name": "TAGERI",
+      "description": "久アバターコンセプトのビリヤードバーです 久アバター以外のご来店も大歓迎！ 交流目的の方や癒されたい方、ビリヤードを触ってみたい方、ぜひご来店ください",
+      "founded": "?",
+      "representative": "",
+      "memberCount": 179,
+      "disciplines": "9ball+8ball",
+      "sns": {
+        "twitter": "https://x.com/TAGERI_poolbar?s=20",
+        "discord": "",
+        "youtube": "",
+        "twitch": "",
+        "vrchat": "https://vrc.group/TAGERI.9999"
+      },
+      "logoUrl": "https://lh3.googleusercontent.com/d/1m1mYTOqdYV-nu5xtWLUXbiyU-QXaEMQO",
+      "themeColor": "#b772f4",
+      "imageIds": ""
+    },
+    {
+      "id": "Cross",
+      "name": "Cross",
+      "description": "ダーツ・ビリヤードBar  グループ参加及びVIP抽選制のバーイベントです。 初心者、経験者関係なく、キャストとの会話を楽しみながら遊べるBarになります。 楽しいイベントにしていきますのでぜひお越しください！",
+      "founded": "2025/12/09",
+      "representative": "remichan03",
+      "memberCount": 135,
+      "disciplines": "9ball+8ball",
+      "sns": {
+        "twitter": "https://x.com/VRC_Cross2025?s=20",
+        "discord": "",
+        "youtube": "",
+        "twitch": "",
+        "vrchat": "https://vrc.group/CROSS.4842"
+      },
+      "logoUrl": "https://lh3.googleusercontent.com/d/1-zD_CfvOTX7wORdYHhM5Lw2dCQ3iHKRz",
+      "themeColor": "#eae6ed",
+      "imageIds": ""
+    },
+    {
+      "id": "SQUAT-billiards",
+      "name": "スクワットビリヤード部",
+      "description": "基本ルールに1ファール10スクワットの賭けと契約を加えて、己の肉体のポテンシャルを限界まで引き出すタイプのビリヤードです",
+      "founded": "2026/04/20",
+      "representative": "くぼ　kbsn",
+      "memberCount": 112,
+      "disciplines": "9ball+8ball",
+      "sns": {
+        "twitter": "",
+        "discord": "https://discord.gg/e5b2gbY9VN",
+        "youtube": "",
+        "twitch": "",
+        "vrchat": "https://vrc.group/SQUAT.6158"
+      },
+      "logoUrl": "https://lh3.googleusercontent.com/d/1VzKsPP2T4gU0zfq3bQ_LmTfE8bA2bICE",
+      "themeColor": "#DC143C",
+      "imageIds": ""
+    },
+    {
+      "id": "GLAMOROUS BREAK",
+      "name": "GLAMOROUS BREAK",
+      "description": "妖艶なキャストとビリヤード勝負。勝てば”彼女”はあなたのもの。負ければ”あなた”が奉仕する側へ     Xで参加方法をご確認ください",
+      "founded": "?",
+      "representative": "Sierra Magnolia",
+      "memberCount": 73,
+      "disciplines": "9ball+8ball",
+      "sns": {
+        "twitter": "https://x.com/G_B_VRC",
+        "discord": "",
+        "youtube": "",
+        "twitch": "",
+        "vrchat": "https://vrc.group/GBREAK.1100"
+      },
+      "logoUrl": "https://lh3.googleusercontent.com/d/1iuVbkLw7ap5J53IT8tIOSqShgG5-9p4n",
+      "themeColor": "#FF7F50",
+      "imageIds": ""
+    }
   ],
   "events": [
     {
