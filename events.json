@@ -1,5 +1,5 @@
 {
-  "updated_at": 1779942482,
+  "updated_at": 1779946081,
   "banners": [
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner1.jpg",
     "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner2.jpg"
@@ -47,18 +47,18 @@
       "id": "casual-billiards",
       "name": "カジュアルビリヤード部",
       "description": "「ビリヤードでつながる」を合言葉に交流を広げて楽しもう！というスタンスで運営しているグループです。グループパブリックで開かれた部室インスタンスなどで遊んでいるので、Joinはお気軽に！",
-      "founded": "2024/10/09",
-      "representative": "",
-      "memberCount": 671,
+      "founded": "2024/3/M",
+      "representative": "あるさん＠",
+      "memberCount": 692,
       "disciplines": "9ball+8ball",
       "sns": {
-        "twitter": "https://x.com/vrc_cbc?s=20",
+        "twitter": "https://x.com/vrc_cbc",
         "discord": "https://discord.gg/Zq3KzwfFHU",
         "youtube": "",
         "twitch": "",
         "vrchat": "https://vrc.group/8944.7258"
       },
-      "logoUrl": "https://lh3.googleusercontent.com/d/11xlchlDrlmnNJP3yMSX051GNMxv9Hfxq",
+      "logoUrl": "",
       "themeColor": "#fbbf24",
       "imageIds": ""
     },
