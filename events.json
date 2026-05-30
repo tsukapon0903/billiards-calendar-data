@@ -1,9 +1,6 @@
 {
-  "updated_at": 1780139143,
-  "banners": [
-    "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner1.jpg",
-    "https://vrc-billiards-club.github.io/billiards-calendar-data/images/banner2.jpg"
-  ],
+  "updated_at": 1780139439,
+  "bannerCount": 2,
   "clubs": [
     {
       "id": "vrc-billiards",
