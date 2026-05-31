@@ -1,5 +1,5 @@
 {
-  "updated_at": 1780230480,
+  "updated_at": 1780231799,
   "bannerCount": 4,
   "clubs": [
     {
@@ -19,7 +19,8 @@
       },
       "logoUrl": "https://lh3.googleusercontent.com/d/15X5KTjldpwmtWcmaZpXcePARxYfzBoMC",
       "themeColor": "#34d399",
-      "imageIds": ""
+      "imageIds": "",
+      "vrcId": ""
     },
     {
       "id": "vrc-carom",
@@ -38,7 +39,8 @@
       },
       "logoUrl": "https://lh3.googleusercontent.com/d/16_UdgvFRQjPm_0vnGgxM_f_jcARgonD3",
       "themeColor": "#60a5fa",
-      "imageIds": ""
+      "imageIds": "",
+      "vrcId": ""
     },
     {
       "id": "casual-billiards",
@@ -57,7 +59,8 @@
       },
       "logoUrl": "https://lh3.googleusercontent.com/d/1mntkHlfrg7CsEmCnzMYGaLrFXl3NVR5d",
       "themeColor": "#fbbf24",
-      "imageIds": ""
+      "imageIds": "",
+      "vrcId": ""
     },
     {
       "id": "c9ue",
@@ -76,7 +79,8 @@
       },
       "logoUrl": "",
       "themeColor": "#f472b6",
-      "imageIds": ""
+      "imageIds": "",
+      "vrcId": ""
     },
     {
       "id": "TAGERI",
@@ -95,7 +99,8 @@
       },
       "logoUrl": "https://lh3.googleusercontent.com/d/1m1mYTOqdYV-nu5xtWLUXbiyU-QXaEMQO",
       "themeColor": "#b772f4",
-      "imageIds": ""
+      "imageIds": "",
+      "vrcId": ""
     },
     {
       "id": "Cross",
@@ -114,7 +119,8 @@
       },
       "logoUrl": "https://lh3.googleusercontent.com/d/1-zD_CfvOTX7wORdYHhM5Lw2dCQ3iHKRz",
       "themeColor": "#eae6ed",
-      "imageIds": ""
+      "imageIds": "",
+      "vrcId": ""
     },
     {
       "id": "SQUAT-billiards",
@@ -133,7 +139,8 @@
       },
       "logoUrl": "https://lh3.googleusercontent.com/d/1VzKsPP2T4gU0zfq3bQ_LmTfE8bA2bICE",
       "themeColor": "#DC143C",
-      "imageIds": ""
+      "imageIds": "",
+      "vrcId": ""
     },
     {
       "id": "GLAMOROUS BREAK",
@@ -152,7 +159,8 @@
       },
       "logoUrl": "https://lh3.googleusercontent.com/d/1iuVbkLw7ap5J53IT8tIOSqShgG5-9p4n",
       "themeColor": "#FF7F50",
-      "imageIds": ""
+      "imageIds": "",
+      "vrcId": ""
     }
   ],
   "events": [
