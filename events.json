@@ -1,5 +1,5 @@
 {
-  "updated_at": 1780243029,
+  "updated_at": 1780243549,
   "bannerCount": 4,
   "clubs": [
     {
@@ -20,7 +20,7 @@
       "logoUrl": "https://lh3.googleusercontent.com/d/15X5KTjldpwmtWcmaZpXcePARxYfzBoMC",
       "themeColor": "#34d399",
       "imageIds": "",
-      "vrcId": ""
+      "vrcId": "grp_4bfb2ebe-ce69-4313-adc7-d3fec060e49e"
     },
     {
       "id": "vrc-carom",
@@ -40,7 +40,7 @@
       "logoUrl": "https://lh3.googleusercontent.com/d/16_UdgvFRQjPm_0vnGgxM_f_jcARgonD3",
       "themeColor": "#60a5fa",
       "imageIds": "",
-      "vrcId": ""
+      "vrcId": "grp_9606cb56-2223-422c-b7d5-2cc77ddc9e8c"
     },
     {
       "id": "casual-billiards",
@@ -60,7 +60,7 @@
       "logoUrl": "https://lh3.googleusercontent.com/d/1mntkHlfrg7CsEmCnzMYGaLrFXl3NVR5d",
       "themeColor": "#fbbf24",
       "imageIds": "",
-      "vrcId": ""
+      "vrcId": "grp_70dc6861-5259-436e-9e3f-bf648aa79d41"
     },
     {
       "id": "c9ue",
@@ -80,7 +80,7 @@
       "logoUrl": "",
       "themeColor": "#f472b6",
       "imageIds": "",
-      "vrcId": ""
+      "vrcId": "grp_581862f0-50b0-4ff8-8013-8a16b96b198b"
     },
     {
       "id": "TAGERI",
@@ -100,7 +100,7 @@
       "logoUrl": "https://lh3.googleusercontent.com/d/1m1mYTOqdYV-nu5xtWLUXbiyU-QXaEMQO",
       "themeColor": "#b772f4",
       "imageIds": "",
-      "vrcId": ""
+      "vrcId": "grp_e086b193-9106-4e0c-a093-f129639c5474"
     },
     {
       "id": "Cross",
@@ -120,7 +120,7 @@
       "logoUrl": "https://lh3.googleusercontent.com/d/1-zD_CfvOTX7wORdYHhM5Lw2dCQ3iHKRz",
       "themeColor": "#eae6ed",
       "imageIds": "",
-      "vrcId": ""
+      "vrcId": "grp_d9660f75-4421-44cd-9498-e23b83dd6422"
     },
     {
       "id": "SQUAT-billiards",
@@ -140,7 +140,7 @@
       "logoUrl": "https://lh3.googleusercontent.com/d/1VzKsPP2T4gU0zfq3bQ_LmTfE8bA2bICE",
       "themeColor": "#DC143C",
       "imageIds": "",
-      "vrcId": ""
+      "vrcId": "grp_34cbb3c2-3a66-4a02-b526-4208295243c6"
     },
     {
       "id": "GLAMOROUS BREAK",
@@ -160,7 +160,7 @@
       "logoUrl": "https://lh3.googleusercontent.com/d/1iuVbkLw7ap5J53IT8tIOSqShgG5-9p4n",
       "themeColor": "#FF7F50",
       "imageIds": "",
-      "vrcId": ""
+      "vrcId": "grp_769a2c8f-8c6f-4dc0-bc93-34b03f96682a"
     }
   ],
   "events": [
