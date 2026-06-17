@@ -1,5 +1,5 @@
 {
-  "updated_at": 1781695681,
+  "updated_at": 1781699301,
   "bannerCount": 8,
   "displayDays": 14,
   "clubs": [
@@ -9,7 +9,7 @@
       "description": "ビリヤードを本気で楽しむためのコミュニティです！初心者から経験者まで、技術向上と競技としての面白さをしっかり味わえるイベントを毎月開催しています。私たちは「ただ遊ぶだけ」ではなく、ビリヤードを真剣に楽しみ、上達し、仲間と切磋琢磨できる場づくりを大切にしています！興味がある方は、ぜひ一度参加してみてください。きっと新しい楽しさに出会えます。",
       "founded": "2022/03/15",
       "representative": "worly",
-      "memberCount": 1176,
+      "memberCount": 1217,
       "disciplines": "9ball+8ball",
       "sns": {
         "twitter": "https://x.com/VRC_billiards",
@@ -29,7 +29,7 @@
       "description": "キャロムビリヤード（3クッション、4球など）を専門に活動する団体。",
       "founded": "2025/02/01",
       "representative": "つかぽん",
-      "memberCount": 127,
+      "memberCount": 136,
       "disciplines": "キャロム, 3C, 四つ球、バンドゲーム、etc",
       "sns": {
         "twitter": "https://x.com/VRC_carom?s=20",
@@ -49,7 +49,7 @@
       "description": "「ビリヤードでつながる」を合言葉に交流を広げて楽しもう！というスタンスで運営しているグループです。グループパブリックで開かれた部室インスタンスなどで遊んでいるので、Joinはお気軽に！",
       "founded": "2024/3/M",
       "representative": "あるさん＠",
-      "memberCount": 692,
+      "memberCount": 715,
       "disciplines": "9ball+8ball",
       "sns": {
         "twitter": "https://x.com/vrc_cbc",
@@ -69,7 +69,7 @@
       "description": "参加者同士の雑談＆交流イベントです。 ビリヤードも簡単、話したい！お友達作りたい！って方も楽しめるイベントです。 無発言もＯＫ！",
       "founded": "2026/01/09",
       "representative": "halium",
-      "memberCount": 867,
+      "memberCount": 898,
       "disciplines": "9ball+8ball & GAME",
       "sns": {
         "twitter": "https://x.com/billiards_c9ue?s=20",
@@ -89,7 +89,7 @@
       "description": "久アバターコンセプトのビリヤードバーです 久アバター以外のご来店も大歓迎！ 交流目的の方や癒されたい方、ビリヤードを触ってみたい方、ぜひご来店ください",
       "founded": "?",
       "representative": "",
-      "memberCount": 179,
+      "memberCount": 188,
       "disciplines": "9ball+8ball",
       "sns": {
         "twitter": "https://x.com/TAGERI_poolbar?s=20",
@@ -109,7 +109,7 @@
       "description": "ダーツ・ビリヤードBar  グループ参加及びVIP抽選制のバーイベントです。 初心者、経験者関係なく、キャストとの会話を楽しみながら遊べるBarになります。 楽しいイベントにしていきますのでぜひお越しください！",
       "founded": "2025/12/09",
       "representative": "remichan03",
-      "memberCount": 135,
+      "memberCount": 139,
       "disciplines": "9ball+8ball",
       "sns": {
         "twitter": "https://x.com/VRC_Cross2025?s=20",
@@ -129,7 +129,7 @@
       "description": "基本ルールに1ファール10スクワットの賭けと契約を加えて、己の肉体のポテンシャルを限界まで引き出すタイプのビリヤードです",
       "founded": "2026/04/20",
       "representative": "くぼ　kbsn",
-      "memberCount": 112,
+      "memberCount": 159,
       "disciplines": "9ball+8ball",
       "sns": {
         "twitter": "",
@@ -149,7 +149,7 @@
       "description": "妖艶なキャストとビリヤード勝負。勝てば”彼女”はあなたのもの。負ければ”あなた”が奉仕する側へ     Xで参加方法をご確認ください",
       "founded": "?",
       "representative": "Sierra Magnolia",
-      "memberCount": 73,
+      "memberCount": 84,
       "disciplines": "9ball+8ball",
       "sns": {
         "twitter": "https://x.com/G_B_VRC",
@@ -4618,6 +4618,29 @@
       "eu": "",
       "ei": [
         13
+      ],
+      "ci": []
+    },
+    {
+      "c": "C9ue",
+      "t": "#f472b6",
+      "n": "ビリヤードバー『C9ue』(月曜)",
+      "y": "接客イベント",
+      "s": 1797249600,
+      "e": 1797260340,
+      "d": "参加者同士の雑談＆交流イベントです。 ビリヤードも簡単、話したい！お友達作りたい！って方も楽しめるイベントです。 無発言もＯＫ！",
+      "p": "8+9ボール",
+      "w": "",
+      "q": "×",
+      "a": "×",
+      "r": "誰でも参加可 ・公式Groop(https://vrc.group/C9UE.5003)にて開かれているGroop+インスタンスに時間になったらJOIN!",
+      "f": "無料",
+      "k": "",
+      "st": "",
+      "du": "https://x.com/billiards_c9ue?s=20",
+      "eu": "",
+      "ei": [
+        16
       ],
       "ci": []
     }
