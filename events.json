@@ -1,5 +1,5 @@
 {
-  "updated_at": 1782912482,
+  "updated_at": 1782912833,
   "bannerCount": 8,
   "displayDays": 14,
   "clubs": [
@@ -572,7 +572,9 @@
       "st": "募集中",
       "du": "https://x.com/VRC_billiards",
       "eu": "",
-      "ei": [],
+      "ei": [
+        6
+      ],
       "ci": []
     },
     {
