@@ -1,5 +1,5 @@
 {
-  "updated_at": 1785752893,
+  "updated_at": 1785756486,
   "bannerCount": 8,
   "displayDays": 14,
   "clubs": [
@@ -162,6 +162,26 @@
       "themeColor": "#FF7F50",
       "imageIds": "",
       "vrcId": "grp_769a2c8f-8c6f-4dc0-bc93-34b03f96682a"
+    },
+    {
+      "id": "vrc-snooker",
+      "name": "VRCスヌーカー倶楽部",
+      "description": "【 VRCスヌーカー倶楽部 】はVRChatでスヌーカーを楽しむ倶楽部です",
+      "founded": "2026/08/02",
+      "representative": "ぽよたろう",
+      "memberCount": 26,
+      "disciplines": "snooker6,15",
+      "sns": {
+        "twitter": "",
+        "discord": "https://discord.gg/hczPJmSrDU",
+        "youtube": "",
+        "twitch": "",
+        "vrchat": "https://vrc.group/SNOOK.9664"
+      },
+      "logoUrl": "",
+      "themeColor": "#556b2f",
+      "imageIds": "",
+      "vrcId": ""
     }
   ],
   "events": [
