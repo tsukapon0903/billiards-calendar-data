@@ -1,5 +1,5 @@
 {
-  "updated_at": 1786012295,
+  "updated_at": 1786012861,
   "bannerCount": 9,
   "displayDays": 14,
   "clubs": [
@@ -1505,7 +1505,9 @@
       "st": "募集中",
       "du": "https://discord.com/channels/953237770942431282/1534513544748466246",
       "eu": "",
-      "ei": [],
+      "ei": [
+        30
+      ],
       "ci": []
     },
     {
