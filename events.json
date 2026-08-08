@@ -1,5 +1,5 @@
 {
-  "updated_at": 1786217284,
+  "updated_at": 1786220952,
   "bannerCount": 9,
   "displayDays": 14,
   "clubs": [
@@ -1261,27 +1261,6 @@
       "ei": [
         21
       ],
-      "ci": []
-    },
-    {
-      "c": "XX-Billiards",
-      "t": "#34d399",
-      "n": "PoolParlor-Beta 8 Ball Tournament",
-      "y": "トーナメント",
-      "s": 1786205460,
-      "e": 1786219200,
-      "d": "このイベントは海外グループ(XX Billiards)主催のイベントです\n時間、エントリー方法などVRCビリヤード同好会のイベント告知チャンネルで確認してください。",
-      "p": "8ball",
-      "w": "",
-      "q": "〇",
-      "a": "×",
-      "r": "参加にはXX Billiards Discordへの参加が必須です。VR only — デスクトップでは参加できません。",
-      "f": "",
-      "k": "32",
-      "st": "募集中",
-      "du": "https://discord.com/channels/953237770942431282/968147669417615392",
-      "eu": "https://challonge.com/XX_Tournament_BetaParlor_8Ball",
-      "ei": [],
       "ci": []
     },
     {
