@@ -1,5 +1,5 @@
 {
-  "updated_at": 1786973342,
+  "updated_at": 1786973903,
   "bannerCount": 9,
   "displayDays": 14,
   "clubs": [
@@ -541,7 +541,9 @@
       "st": "募集中",
       "du": "",
       "eu": "",
-      "ei": [],
+      "ei": [
+        31
+      ],
       "ci": []
     },
     {
