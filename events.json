@@ -1,5 +1,5 @@
 {
-  "updated_at": 1789142695,
+  "updated_at": 1789143012,
   "bannerCount": 9,
   "displayDays": 14,
   "clubs": [
@@ -775,7 +775,9 @@
       "st": "",
       "du": "",
       "eu": "",
-      "ei": [],
+      "ei": [
+        9
+      ],
       "ci": []
     },
     {
