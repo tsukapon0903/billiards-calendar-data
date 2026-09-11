@@ -1,5 +1,5 @@
 {
-  "updated_at": 1789140482,
+  "updated_at": 1789142695,
   "bannerCount": 9,
   "displayDays": 14,
   "clubs": [
@@ -755,6 +755,27 @@
       "ei": [
         11
       ],
+      "ci": []
+    },
+    {
+      "c": "VRCビリヤード同好会",
+      "t": "#34d399",
+      "n": "RunOutHouseTournament",
+      "y": "トーナメント",
+      "s": 1789819200,
+      "e": 1789829940,
+      "d": "",
+      "p": "9ball",
+      "w": "https://vrchat.com/home/launch?worldId=wrld_b717a18a-ecbf-406d-8416-602a528b7b1a",
+      "q": "×",
+      "a": "×",
+      "r": "",
+      "f": "",
+      "k": "16",
+      "st": "",
+      "du": "",
+      "eu": "",
+      "ei": [],
       "ci": []
     },
     {
