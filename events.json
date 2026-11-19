@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795098497,
+  "updated_at": 1795102088,
   "bannerCount": 9,
   "displayDays": 14,
   "clubs": [
@@ -205,29 +205,6 @@
     }
   ],
   "events": [
-    {
-      "c": "GLAMOROUS BREAK",
-      "t": "#FF7F50",
-      "n": "GLAMOROUS BREAK",
-      "y": "接客イベント",
-      "s": 1795093200,
-      "e": 1795100340,
-      "d": "事前登録、抽選についてtwitter/xで確認してください",
-      "p": "",
-      "w": "",
-      "q": "〇",
-      "a": "×",
-      "r": "事前登録、抽選 ・公式Groop(https://vrc.group/SQUAT.6158)にて開かれているGroop+インスタンスに時間になったらJOIN!",
-      "f": "",
-      "k": "",
-      "st": "",
-      "du": "https://x.com/G_B_VRC",
-      "eu": "",
-      "ei": [
-        2
-      ],
-      "ci": []
-    },
     {
       "c": "カジュアルビリヤード部",
       "t": "#fbbf24",
